@@ -10,20 +10,20 @@ const CONFIG = {
     github: "dhruvburman97",
     instagram: "dhruvburman",
   },
-  projects: [
-    {
-      name: `dsaas`,
-      href: "https://simplifyvms.com",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `dsaas`,
+  //     href: "https://simplifyvms.com",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
-    title: "blog",
+    title: "Dhruv",
     description: "welcome to the blog",
   },
 
   // CONFIG configration (required)
-  link: "https://dhruv-blog.vercel.app",
+  link: "https://burman.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
