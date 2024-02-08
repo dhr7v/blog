@@ -10,13 +10,13 @@ const CONFIG = {
     github: "dhruvburman97",
     instagram: "dhruvburman",
   },
-  // projects: [
-  //   {
-  //     name: `dsaas`,
-  //     href: "https://simplifyvms.com",
-  //   },
-  // ],
-  // blog setting (required)
+  projects: [
+    {
+      name: `blog`,
+      href: "https://blog.dhruvburman.com",
+    },
+  ],
+  blog setting (required)
   blog: {
     title: "Dhruv",
     description: "welcome to the blog",
