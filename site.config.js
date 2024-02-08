@@ -16,7 +16,7 @@ const CONFIG = {
       href: "https://blog.dhruvburman.com",
     },
   ],
-  blog setting (required)
+  // blog setting (required)
   blog: {
     title: "Dhruv",
     description: "welcome to the blog",
